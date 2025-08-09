@@ -78,7 +78,7 @@ Please include:
   
 ## 📝 License
 
-- **License**: [View here](https://github.com/kotok7/Discordeck/LICENSE)
+- **License**: [View here](https://github.com/kotok7/Discordeck/blob/main/LICENSE))
 - > **Note**: By interacting with this repository, you agree to respect these restrictions.
 
 ## 🙏 Acknowledgments
